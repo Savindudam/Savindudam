@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Savindudam
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on php
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He
+- ⚡ Fun fact: I am 16
 
 <!---
 Savindudam/Savindudam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
